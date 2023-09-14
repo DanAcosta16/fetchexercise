@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#000000</color> <!-- Black background -->
+    <color name="card_color">#212121</color> <!-- Dark grey color for cards -->
+    <style name="Theme.Fetchexercise" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
